@@ -1,6 +1,6 @@
 {
   "name": "@ehosick/config-source-parameter-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "config-core extension which loads configuration and settings from AWS SSM Parameter Store.",
   "author": {
     "name": "Eric Hosick",
